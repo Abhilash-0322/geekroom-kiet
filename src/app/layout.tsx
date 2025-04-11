@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Geek Room Plaksha",
-  description: "Official website of Geek Room Plaksha, a tech community at Plaksha University",
+  title: "Geek Room Kiet",
+  description: "Official website of Geek Room Kiet",
 };
 
 export default function RootLayout({
